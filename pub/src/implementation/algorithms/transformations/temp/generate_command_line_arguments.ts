@@ -1,10 +1,10 @@
 import * as pa from 'exupery-core-alg'
 
-import * as d_in from "../../../interface/generated/pareto/schemas/git/data_types/source"
+import * as d_in from "../../../../interface/generated/pareto/schemas/git/data_types/source"
 import * as d_out from "pareto-fountain-pen/dist/interface/generated/pareto/schemas/block/data_types/target"
 
 import * as sh from "pareto-fountain-pen/dist/shorthands/block"
-import { Signature } from "../../../interface/algorithms/transformations/temp/generate_command_line_arguments_clean"
+import { Signature } from "../../../../interface/algorithms/transformations/temp/generate_command_line_arguments"
 
 
 export const Git_Command = (
