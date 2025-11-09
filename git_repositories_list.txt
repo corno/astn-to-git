@@ -1,0 +1,8 @@
+Repository: astn-to-git
+Path: /home/corno/workspace/pareto-canon/packages/astn-to-git
+Last Commit: 2025-11-07 (c2b021f)
+Message: updated to latest core
+Branch: main
+Remote: git@github.com:corno/astn-to-git
+-------------------------------------------------
+
